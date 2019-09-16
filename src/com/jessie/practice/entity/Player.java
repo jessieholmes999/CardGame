@@ -53,7 +53,7 @@ public final class Player extends Person implements Runnable {
     }
 
     /**
-     * 返回手上卡牌数
+     * 返回手上卡牌数量
      *
      * @return int
      */
